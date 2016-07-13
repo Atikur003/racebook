@@ -1,2 +1,2 @@
 # racebook
-racebook is a social web app template like facebook
+racebook is a angular-material responsive social app template like facebook
